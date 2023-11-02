@@ -1,0 +1,30 @@
+As colunas desse dataset so:
+
+ 
+
+‘+ Passenger ID: ID do passageiro (ntimero unico para cada um dos passageiros)
+
++ Survived: sobrevivente (0 = Nao, 1 = Sim)
+
++ Pclass: Classe da passagem (1 = primeira classe, 2 = segunda classe, 3 = terceira classe)
+‘+ Name: nome do passageiro
+
+‘+ Sex: Género do passageiro
+
++ Age: Idade (em anos) do passageiro
+
+‘* SibSp: numero de irmos / cénjuges a bordo do Titanic
+
+‘+ Parch: numero de pais / filhos a bordo do Titanic
+
++ Ticket: numero do ticket
+
++ Fare: tarifa da passagem
+
++ Cabin: numero da cabine
+
+* Embarked: porto de embarque (C = Cherbourg, Q = Queenstown, S
+
+ 
+
+ 
